@@ -6,3 +6,4 @@
 4. sudo make
 5. sudo make install
 6. add "sweph.so" to 'php.ini' file (generally in /etc/php5/apache2/php.ini) extension=sweph.so
+7. restart your webserver (sudo apache2 restart OR sudo nginx restart)
